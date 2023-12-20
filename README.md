@@ -73,14 +73,14 @@ mentoring platforms can help learners to achieve their academic and professional
 goals.
 
 # Objectives 
-- Build a user-friendly interface that is easy for both students and mentors to
+Build a user-friendly interface that is easy for both students and mentors to
 use.
 <br>
-- Develop a secure system for storing student and mentor data.
+Develop a secure system for storing student and mentor data.
 <br>
-- Create a variety of communication tools so that students and mentors can
+Create a variety of communication tools so that students and mentors can
 easily connect with each other.
 <br>
-- Develop a system for tracking student progress so that mentors can provide
+Develop a system for tracking student progress so that mentors can provide
 timely feedback.
 
